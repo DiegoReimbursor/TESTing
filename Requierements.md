@@ -1,4 +1,4 @@
-## Sanity check
+# Sanity check
 ## Safe environment
  
  Status check tasks
